@@ -163,7 +163,7 @@
       <div class="apac-pains__answer">
         <p class="apac-pains__eyebrow">The Kentico answer</p>
         <p>Unlimited editors, no per-seat tax. Anglicare WA scaled its team, not its bill.</p>
-        <a class="apac-pains__chip" href="https://www.kentico.com/discover/customer-stories/anglicare-wa-success-story">Read full story</a>
+        <a class="apac-pains__chip" href="https://www.kentico.com/discover/customer-stories">Read full story</a>
       </div>
     </div>
 
@@ -178,7 +178,7 @@
       <div class="apac-pains__answer">
         <p class="apac-pains__eyebrow">The Kentico answer</p>
         <p>WCAG 2.2 AA, ISO 27001 and SOC 2 built in — not bolted on.</p>
-        <a class="apac-pains__chip" href="https://www.kentico.com">Accessibility score 44→92% after migration</a>
+        <a class="apac-pains__chip" href="https://www.kentico.com/discover/customer-stories">Accessibility score 44→92% after migration</a>
       </div>
     </div>
 
@@ -193,6 +193,7 @@
       <div class="apac-pains__answer">
         <p class="apac-pains__eyebrow">The Kentico answer</p>
         <p>.NET-native — the ecosystem Australia and NZ already run on, with certified local partners.</p>
+        <a class="apac-pains__chip" href="https://www.kentico.com/partners/find-a-partner">Find a certified AU/NZ partner</a>
       </div>
     </div>
 
@@ -207,7 +208,7 @@
       <div class="apac-pains__answer">
         <p class="apac-pains__eyebrow">The Kentico answer</p>
         <p>A proven path off Sitecore, Adobe and WordPress — in weeks, not quarters.</p>
-        <a class="apac-pains__chip" href="https://www.kentico.com">1,200 member-gated pages in 5 weeks</a>
+        <a class="apac-pains__chip" href="https://www.kentico.com/discover/customer-stories/aia-success-story">1,200 member-gated pages in 5 weeks</a>
       </div>
     </div>
 
