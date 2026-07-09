@@ -2,7 +2,7 @@
   const mount = document.querySelector('[data-widget="apac-pains"]');
   if (!mount) return;
 
-  mount.innerHTML = `
+  mount.innerHTML = /*html*/ `
 <style>
   .apac-pains {
     max-width: 1030px;
@@ -201,7 +201,7 @@
       <div class="apac-pains__answer">
         <p class="apac-pains__eyebrow">The Kentico answer</p>
         <p>AIRA — AI that does the work, not just drafts it.</p>
-        <a class="apac-pains__chip" href="https://www.kentico.com">Try AIRA below ↓</a>
+        <a class="apac-pains__chip" href="https://www.kentico.com">Learn more about AIRA</a>
       </div>
     </div>
 
