@@ -141,8 +141,8 @@
       </div>
       <div class="apac-pains__answer">
         <p class="apac-pains__eyebrow">The Kentico answer</p>
-        <p>Unlimited editors, no per-seat tax.</p>
-        <a class="apac-pains__chip" href="https://www.kentico.com">Anglicare WA scaled its team, not its bill</a>
+        <p>Unlimited editors, no per-seat tax. Anglicare WA scaled its team, not its bill.</p>
+        <a class="apac-pains__chip" href="https://www.kentico.com/discover/customer-stories/anglicare-wa-success-story">Read full story</a>
       </div>
     </div>
 
