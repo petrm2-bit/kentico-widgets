@@ -47,11 +47,11 @@
     isolation: isolate;
   }
   .apac-pains__pain::before {
-    content: "\\201C";
+    content: "\\201D";
     position: absolute;
-    right: 20px;
-    bottom: -0.55em;
-    font-size: 120px;
+    right: 24px;
+    bottom: -0.4em;
+    font-size: 150px;
     font-weight: 700;
     font-style: normal;
     line-height: 1;
@@ -66,6 +66,7 @@
     margin: 0;
     font-style: italic;
     color: #5A5A5A;
+    max-width: 85%;
   }
   .apac-pains__answer {
     background: linear-gradient(135deg, #F7F1FF 0%, #F1E6FF 100%);
@@ -131,8 +132,8 @@
       padding: 20px 22px;
     }
     .apac-pains__pain::before {
-      font-size: 84px;
-      right: 14px;
+      font-size: 96px;
+      right: 16px;
     }
     .apac-pains__arrow {
       padding: 4px 0;
@@ -154,7 +155,7 @@
     <div class="apac-pains__row">
       <div class="apac-pains__pain">
         <p class="apac-pains__eyebrow">Legacy DXP challenge</p>
-        <p>Licensing costs grow every time our team does.</p>
+        <p>US-priced licensing that punishes us for growing the team.</p>
       </div>
       <div class="apac-pains__arrow" aria-hidden="true">
         <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="12" x2="20" y2="12"/><polyline points="13 5 20 12 13 19"/></svg></span>
@@ -169,7 +170,7 @@
     <div class="apac-pains__row">
       <div class="apac-pains__pain">
         <p class="apac-pains__eyebrow">Legacy DXP challenge</p>
-        <p>WCAG AA and the Privacy Act aren't optional here.</p>
+        <p>WCAG AA and the Privacy Act aren't nice-to-haves — they're the brief.</p>
       </div>
       <div class="apac-pains__arrow" aria-hidden="true">
         <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="12" x2="20" y2="12"/><polyline points="13 5 20 12 13 19"/></svg></span>
@@ -198,14 +199,14 @@
     <div class="apac-pains__row">
       <div class="apac-pains__pain">
         <p class="apac-pains__eyebrow">Legacy DXP challenge</p>
-        <p>Replatforming feels like a year-long project.</p>
+        <p>Escaping a legacy DXP looks like a year of migration pain.</p>
       </div>
       <div class="apac-pains__arrow" aria-hidden="true">
         <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="12" x2="20" y2="12"/><polyline points="13 5 20 12 13 19"/></svg></span>
       </div>
       <div class="apac-pains__answer">
         <p class="apac-pains__eyebrow">The Kentico answer</p>
-        <p>A proven path off Sitecore, Adobe and WordPress.</p>
+        <p>A proven path off Sitecore, Adobe and WordPress — in weeks, not quarters.</p>
         <a class="apac-pains__chip" href="https://www.kentico.com">1,200 member-gated pages in 5 weeks</a>
       </div>
     </div>
@@ -213,14 +214,14 @@
     <div class="apac-pains__row">
       <div class="apac-pains__pain">
         <p class="apac-pains__eyebrow">Legacy DXP challenge</p>
-        <p>Five people. Fifty things on the list.</p>
+        <p>A five-person team, a fifty-item to-do list.</p>
       </div>
       <div class="apac-pains__arrow" aria-hidden="true">
         <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="12" x2="20" y2="12"/><polyline points="13 5 20 12 13 19"/></svg></span>
       </div>
       <div class="apac-pains__answer">
         <p class="apac-pains__eyebrow">The Kentico answer</p>
-        <p>AIRA — AI that does the work, not just drafts it.</p>
+        <p>AIRA — agentic AI that does the work, not just drafts it.</p>
         <a class="apac-pains__chip" href="https://www.kentico.com/platform/aira">Learn more about AIRA</a>
       </div>
     </div>
