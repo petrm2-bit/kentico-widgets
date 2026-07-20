@@ -9,16 +9,6 @@
     margin: 0 auto;
     padding: 48px 0;
   }
-  .apac-pains__intro {
-    text-align: center;
-    max-width: 760px;
-    margin: 0 auto 44px;
-  }
-  .apac-pains__intro p {
-    font-size: 15px;
-    color: #5A5A5A;
-    margin: 8px 0 0;
-  }
   .apac-pains__rows {
     display: flex;
     flex-direction: column;
@@ -151,11 +141,6 @@
 </style>
 
 <section class="apac-pains" aria-label="What's holding Australian organisations back and how Kentico fixes it">
-  <div class="apac-pains__intro">
-    <h2>What's holding Australian organisations back, and how Xperience by Kentico fixes it</h2>
-    <p>The capabilities they need, without the complexity.</p>
-  </div>
-
   <div class="apac-pains__rows">
 
     <div class="apac-pains__row">
