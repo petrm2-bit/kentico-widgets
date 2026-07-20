@@ -11,8 +11,13 @@
   }
   .apac-pains__intro {
     text-align: center;
-    max-width: 720px;
+    max-width: 760px;
     margin: 0 auto 44px;
+  }
+  .apac-pains__intro p {
+    font-size: 15px;
+    color: #5A5A5A;
+    margin: 8px 0 0;
   }
   .apac-pains__rows {
     display: flex;
@@ -101,6 +106,7 @@
   }
   .apac-pains__chip {
     display: inline-block;
+    margin-top: 4px;
     font-size: 0.8em;
     font-style: normal;
     font-weight: 500;
@@ -144,86 +150,101 @@
   }
 </style>
 
-<section class="apac-pains" aria-label="Australian pain points and how Kentico answers them">
+<section class="apac-pains" aria-label="What's holding Australian organisations back and how Kentico fixes it">
   <div class="apac-pains__intro">
-    <h2>Why Australian teams are leaving legacy DXPs</h2>
-    <p>Same requirements, very different experience.</p>
+    <h2>What's holding Australian organisations back, and how Xperience by Kentico fixes it</h2>
+    <p>The capabilities they need, without the complexity.</p>
   </div>
 
   <div class="apac-pains__rows">
 
     <div class="apac-pains__row">
       <div class="apac-pains__pain">
-        <p class="apac-pains__eyebrow">Legacy DXP challenge</p>
-        <p>US-priced licensing that punishes us for growing the team.</p>
+        <p class="apac-pains__eyebrow">Scaling costs</p>
+        <p>Growing your team shouldn't mean growing your licensing costs. Legacy licensing charges you for every editor you hire and every traffic spike you weather.</p>
       </div>
       <div class="apac-pains__arrow" aria-hidden="true">
         <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="12" x2="20" y2="12"/><polyline points="13 5 20 12 13 19"/></svg></span>
       </div>
       <div class="apac-pains__answer">
-        <p class="apac-pains__eyebrow">The Kentico answer</p>
-        <p>Unlimited editors, no per-seat tax. Anglicare WA scaled its team, not its bill.</p>
+        <p class="apac-pains__eyebrow">Xperience by Kentico solution</p>
+        <p>Unlimited editors, no per-seat limits. Multichannel delivery helps you effortlessly scale channel by channel. It's how Anglicare WA scaled their team and improved governance at the same time, with a 21.6% increase in engagement time after migrating from Sitecore.</p>
         <a class="apac-pains__chip" href="https://www.kentico.com/discover/customer-stories/anglicare-wa-success-story">Read the Anglicare WA story</a>
       </div>
     </div>
 
     <div class="apac-pains__row">
       <div class="apac-pains__pain">
-        <p class="apac-pains__eyebrow">Legacy DXP challenge</p>
-        <p>WCAG AA and the Privacy Act aren't nice-to-haves — they're the brief.</p>
+        <p class="apac-pains__eyebrow">Compliance demands</p>
+        <p>WCAG AA and the Privacy Act aren't nice-to-haves, they're the brief. The bar for Australia's privacy and accessibility standards keeps rising, with new Privacy Act disclosure obligations and active OAIC compliance sweeps.</p>
       </div>
       <div class="apac-pains__arrow" aria-hidden="true">
         <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="12" x2="20" y2="12"/><polyline points="13 5 20 12 13 19"/></svg></span>
       </div>
       <div class="apac-pains__answer">
-        <p class="apac-pains__eyebrow">The Kentico answer</p>
-        <p>WCAG 2.2 AA, ISO 27001 and SOC 2 built in — not bolted on. Cockburn ARC lifted its accessibility score from 76% to 90%, meeting government standards.</p>
+        <p class="apac-pains__eyebrow">Xperience by Kentico solution</p>
+        <p>WCAG 2.2 AA, ISO 27001, and SOC 2 come built in. Cockburn ARC achieved a higher accessibility score, increasing from 76% to 90%, with a 61.2% increase in sessions year over year after upgrading.</p>
         <a class="apac-pains__chip" href="https://www.kentico.com/discover/customer-stories/cockburn-arc">Read the Cockburn ARC story</a>
       </div>
     </div>
 
     <div class="apac-pains__row">
       <div class="apac-pains__pain">
-        <p class="apac-pains__eyebrow">Legacy DXP challenge</p>
-        <p>Finding talent for a niche stack is its own project.</p>
+        <p class="apac-pains__eyebrow">Developer resources</p>
+        <p>Finding skilled developers shouldn't slow your project. Hiring is its own ongoing project in the Australian and NZ market, where the talent pool is small and rates keep climbing.</p>
       </div>
       <div class="apac-pains__arrow" aria-hidden="true">
         <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="12" x2="20" y2="12"/><polyline points="13 5 20 12 13 19"/></svg></span>
       </div>
       <div class="apac-pains__answer">
-        <p class="apac-pains__eyebrow">The Kentico answer</p>
-        <p>.NET-native — the ecosystem Australia and NZ already run on, with certified local partners.</p>
-        <a class="apac-pains__chip" href="https://www.kentico.com/partners/find-a-partner">Find a certified AU/NZ partner</a>
+        <p class="apac-pains__eyebrow">Xperience by Kentico solution</p>
+        <p>Built on .NET, which Australia and NZ development teams already know. Supported by certified local implementation partners across Australia and New Zealand.</p>
+        <a class="apac-pains__chip" href="https://www.kentico.com/partners/find-a-partner">Explore development</a>
       </div>
     </div>
 
     <div class="apac-pains__row">
       <div class="apac-pains__pain">
-        <p class="apac-pains__eyebrow">Legacy DXP challenge</p>
-        <p>Escaping a legacy DXP looks like a year of migration pain.</p>
+        <p class="apac-pains__eyebrow">Migration pain</p>
+        <p>Migrating from alternative DXPs looks like at least a year of migration pain. Meanwhile, licensing and maintenance costs compound.</p>
       </div>
       <div class="apac-pains__arrow" aria-hidden="true">
         <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="12" x2="20" y2="12"/><polyline points="13 5 20 12 13 19"/></svg></span>
       </div>
       <div class="apac-pains__answer">
-        <p class="apac-pains__eyebrow">The Kentico answer</p>
-        <p>A proven path off Sitecore, Adobe and WordPress — in weeks, not quarters. The Australian Institute of Architects migrated 1,200 member-gated pages in just 5 weeks.</p>
+        <p class="apac-pains__eyebrow">Xperience by Kentico solution</p>
+        <p>A proven, fast migration path off alternative DXPs with a clear ROI timeline. Pre-configured, documented, and fully customizable migration tools help you bring all of your content and data with you — a confident path to value with no messy transitions. It's why the Australian Institute of Architects migrated 1,200 member-gated pages in just 5 weeks.</p>
         <a class="apac-pains__chip" href="https://www.kentico.com/discover/customer-stories/aia-success-story">Read the AIA story</a>
       </div>
     </div>
 
     <div class="apac-pains__row">
       <div class="apac-pains__pain">
-        <p class="apac-pains__eyebrow">Legacy DXP challenge</p>
-        <p>A five-person team, a fifty-item to-do list.</p>
+        <p class="apac-pains__eyebrow">Disconnected tools</p>
+        <p>Blocked by disconnected tools and data, marketing teams face never-ending to-do lists. Juggling multiple platforms means conversions slip away as drop-offs go unnoticed.</p>
       </div>
       <div class="apac-pains__arrow" aria-hidden="true">
         <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="12" x2="20" y2="12"/><polyline points="13 5 20 12 13 19"/></svg></span>
       </div>
       <div class="apac-pains__answer">
-        <p class="apac-pains__eyebrow">The Kentico answer</p>
-        <p>AIRA — agentic AI that does the work, not just drafts it.</p>
+        <p class="apac-pains__eyebrow">Xperience by Kentico solution</p>
+        <p>Bring everything together in a unified platform, where campaigns, journeys, and channels all draw from the same source. The built-in AIRA Agentic Marketing Suite adds specialized AI agents to your workflow that keep messaging consistent, catch drop-offs before they cost you, and close SEO and AI-search visibility gaps.</p>
         <a class="apac-pains__chip" href="https://www.kentico.com/platform/aira">Learn more about AIRA</a>
+      </div>
+    </div>
+
+    <div class="apac-pains__row">
+      <div class="apac-pains__pain">
+        <p class="apac-pains__eyebrow">Local expertise</p>
+        <p>You need local expertise — with a global platform behind it.</p>
+      </div>
+      <div class="apac-pains__arrow" aria-hidden="true">
+        <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="12" x2="20" y2="12"/><polyline points="13 5 20 12 13 19"/></svg></span>
+      </div>
+      <div class="apac-pains__answer">
+        <p class="apac-pains__eyebrow">Xperience by Kentico solution</p>
+        <p>Certified Kentico partners across APAC help you implement and launch Xperience by Kentico with confidence.</p>
+        <a class="apac-pains__chip" href="https://www.kentico.com/partners/find-a-partner">Find a verified AU/NZ implementation partner</a>
       </div>
     </div>
 
