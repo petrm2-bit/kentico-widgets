@@ -176,7 +176,7 @@
     <div class="apac-pains__row">
       <div class="apac-pains__pain">
         <p class="apac-pains__eyebrow">Developer resources</p>
-        <p>Finding skilled developers shouldn't slow your project. Hiring is its own ongoing project in the Australian and NZ market, where the talent pool is small and rates keep climbing.</p>
+        <p>Finding skilled developers shouldn't slow your project. Hiring developers is its own ongoing project in the Australian and NZ market, where the talent pool is small and rates keep climbing.</p>
       </div>
       <div class="apac-pains__arrow" aria-hidden="true">
         <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="12" x2="20" y2="12"/><polyline points="13 5 20 12 13 19"/></svg></span>
@@ -198,7 +198,7 @@
       </div>
       <div class="apac-pains__answer">
         <p class="apac-pains__eyebrow">Xperience by Kentico solution</p>
-        <p>A proven, fast migration path off alternative DXPs with a clear ROI timeline. Pre-configured, documented, and fully customizable migration tools help you bring all of your content and data with you — a confident path to value with no messy transitions. It's why the Australian Institute of Architects migrated 1,200 member-gated pages in just 5 weeks.</p>
+        <p>A fast migration path with a clear timeline. Pre-configured migration tools help bring all of your content and data with you, preventing messy transitions. It's why the Australian Institute of Architects was able to migrate 1,200 member-gated pages in just 5 weeks.</p>
         <a class="apac-pains__chip" href="https://www.kentico.com/discover/customer-stories/aia-success-story">Read the AIA story</a>
       </div>
     </div>
@@ -206,14 +206,14 @@
     <div class="apac-pains__row">
       <div class="apac-pains__pain">
         <p class="apac-pains__eyebrow">Disconnected tools</p>
-        <p>Blocked by disconnected tools and data, marketing teams face never-ending to-do lists. Juggling multiple platforms means conversions slip away as drop-offs go unnoticed.</p>
+        <p>Blocked by disconnected tools and data, marketing teams have never-ending to-do lists. Juggling multiple platforms means marketers lose conversions as drop-offs slip through unnoticed.</p>
       </div>
       <div class="apac-pains__arrow" aria-hidden="true">
         <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="12" x2="20" y2="12"/><polyline points="13 5 20 12 13 19"/></svg></span>
       </div>
       <div class="apac-pains__answer">
         <p class="apac-pains__eyebrow">Xperience by Kentico solution</p>
-        <p>Bring everything together in a unified platform, where campaigns, journeys, and channels all draw from the same source. The built-in AIRA Agentic Marketing Suite adds specialized AI agents to your workflow that keep messaging consistent, catch drop-offs before they cost you, and close SEO and AI-search visibility gaps.</p>
+        <p>Get digital marketing, content management, commerce, and customer journeys together in one AI-supported platform. The built-in AIRA Agentic Marketing Suite reduces manual marketing work by keeping messaging consistent, catching customer drop-offs, and improving search visibility.</p>
         <a class="apac-pains__chip" href="https://www.kentico.com/platform/aira">Learn more about AIRA</a>
       </div>
     </div>
@@ -221,7 +221,7 @@
     <div class="apac-pains__row">
       <div class="apac-pains__pain">
         <p class="apac-pains__eyebrow">Local expertise</p>
-        <p>You need local expertise — with a global platform behind it.</p>
+        <p>You need local expertise backed by a global platform.</p>
       </div>
       <div class="apac-pains__arrow" aria-hidden="true">
         <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="12" x2="20" y2="12"/><polyline points="13 5 20 12 13 19"/></svg></span>
