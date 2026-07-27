@@ -176,7 +176,7 @@
     <div class="apac-pains__row">
       <div class="apac-pains__pain">
         <p class="apac-pains__eyebrow">Developer resources</p>
-        <p>Finding skilled developers shouldn't slow your project. Hiring developers is its own ongoing project in the Australian and NZ market, where the talent pool is small and rates keep climbing.</p>
+        <p>Finding skilled developers shouldn't slow your project. Hiring is its own ongoing project, where competition for top talent remains strong.</p>
       </div>
       <div class="apac-pains__arrow" aria-hidden="true">
         <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="12" x2="20" y2="12"/><polyline points="13 5 20 12 13 19"/></svg></span>
@@ -191,7 +191,7 @@
     <div class="apac-pains__row">
       <div class="apac-pains__pain">
         <p class="apac-pains__eyebrow">Migration pain</p>
-        <p>Migrating from alternative DXPs looks like at least a year of migration pain. Meanwhile, licensing and maintenance costs compound.</p>
+        <p>Moving from a legacy DXP doesn't have to mean a year-long migration.</p>
       </div>
       <div class="apac-pains__arrow" aria-hidden="true">
         <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="12" x2="20" y2="12"/><polyline points="13 5 20 12 13 19"/></svg></span>
@@ -214,6 +214,21 @@
       <div class="apac-pains__answer">
         <p class="apac-pains__eyebrow">Xperience by Kentico solution</p>
         <p>Get digital marketing, content management, commerce, and customer journeys together in one AI-supported platform. The built-in AIRA Agentic Marketing Suite reduces manual marketing work by keeping messaging consistent, catching customer drop-offs, and improving search visibility.</p>
+        <a class="apac-pains__chip" href="https://www.kentico.com/platform/aira">Learn more about AIRA</a>
+      </div>
+    </div>
+
+    <div class="apac-pains__row">
+      <div class="apac-pains__pain">
+        <p class="apac-pains__eyebrow">More to do, fewer hands</p>
+        <p>A five-person team, a fifty-item to-do list.</p>
+      </div>
+      <div class="apac-pains__arrow" aria-hidden="true">
+        <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="12" x2="20" y2="12"/><polyline points="13 5 20 12 13 19"/></svg></span>
+      </div>
+      <div class="apac-pains__answer">
+        <p class="apac-pains__eyebrow">Xperience by Kentico solution</p>
+        <p>AIRA is native, agentic AI built into Xperience by Kentico. It doesn't just generate content — it helps marketers get work done, from authoring and personalization to SEO, optimization, and campaign execution.</p>
         <a class="apac-pains__chip" href="https://www.kentico.com/platform/aira">Learn more about AIRA</a>
       </div>
     </div>
